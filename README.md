@@ -93,7 +93,7 @@
 
 <div align="center">
 
-### ⭐️ Thanks for stopping by!
+### 🩷 Thanks for stopping by!
 *"Turning data into decisions, one insight at a time."*
 
 </div>
