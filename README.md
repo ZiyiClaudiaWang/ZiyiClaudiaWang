@@ -54,16 +54,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZiyiClaudiaWang&show_icons=true&hide_border=true&bg_color=00000000&title_color=d4808d&text_color=f099a9&icon_color=a88088"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZiyiClaudiaWang&layout=compact&hide_border=true&bg_color=00000000&title_color=d4808d&text_color=a88088&icon_color=f099a9"/>
-</p>
-
----
-
 ## 📝 What I'm Working On  
 - 👑 Strengthening data science skills through Columbia QMSS courses  
 - 💻 Learning machine learning techniques like **MDS, LLE, t-SNE, clustering**  
